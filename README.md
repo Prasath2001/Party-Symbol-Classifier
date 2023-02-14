@@ -17,4 +17,4 @@ The Election Commission of India has introduced Voter Verified Paper Audit Trail
 
 ## Contact
 
-If you face any issues with the repository or have any questions for us, drop a mail at prasath.murugesan2001@gmail.com or shamtcs@gmail.com.
+If you face any issues with the repository or have any questions for us, drop us mail at prasath.murugesan2001@gmail.com or shamtcs@gmail.com.
