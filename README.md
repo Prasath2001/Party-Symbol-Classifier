@@ -9,11 +9,11 @@ The Election Commission of India has introduced Voter Verified Paper Audit Trail
 
 ## Reproducibility
 
-Preprint version : https://arxiv.org/abs/2212.11124
+`Preprint version` : https://arxiv.org/abs/2212.11124
 
-Dataset (Made available in Kaggle): https://www.kaggle.com/datasets/prasathm2001/indian-party-symbol-dataset
+`Dataset` (Made available in Kaggle): https://www.kaggle.com/datasets/prasathm2001/indian-party-symbol-dataset
 
-Web-app : https://votecounter.streamlit.app/
+`Web-app` : https://votecounter.streamlit.app/
 
 ## Contact
 
