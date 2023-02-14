@@ -1,7 +1,7 @@
 # Party-Symbol-Classifier
 This repository contains code for training image classifier on party symbols recognized by Election Commission of India.
 
-We presented our paper titled, "An AI-Powered VVPAT Counter for Elections in India" at the AAAI workshop on AI for Credible Elections on February 14, 2023.
+We presented our paper titled, `"An AI-Powered VVPAT Counter for Elections in India"` at the AAAI workshop on AI for Credible Elections on February 14, 2023.
 
 ## Abstract
 
