@@ -14,3 +14,7 @@ Preprint version : https://arxiv.org/abs/2212.11124
 Dataset (Made available in Kaggle): https://www.kaggle.com/datasets/prasathm2001/indian-party-symbol-dataset
 
 Web-app : https://votecounter.streamlit.app/
+
+## Contact
+
+If you face any issues with the repository or have any questions for us, drop a mail at prasath.murugesan2001@gmail.com or shamtcs@gmail.com.
